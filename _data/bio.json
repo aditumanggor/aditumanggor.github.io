@@ -1,84 +1,104 @@
 {
-  "basics": {
-    "name": "Adi Putra Tumanggor",
-    "label": "Student",
-    "picture": "https://github.com/aditumanggor.png",
-    "email": "aditumanggor13@gmail.com",
-    "phone": "+6283130199468",
-    "website": "https://aditumanggor.github.io",
-    "summary": "Mining Engineering graduate with strong technical skills and a solid understanding of mining operations, Graduated in 2022 from Institus Sains dan Teknologi TD Pardede",
-    "location": { "address": "", "postalCode": "", "city": "Medan", "countryCode": "ID", "region": "North Sumatera" },
-    "profiles": [
-      { "network": "github", "username": "aditumanggor", "url": "http://github.com/aditumanggor" },
-      { "network": "linkedin", "username": "aditumanggor", "url": "http://linkedin.com/in/aditumanggor" },
-      { "network": "twitter", "username": "thisistumanggor", "url": "http://twitter.com/thisistumanggor" },
-      { "network": "instagram", "username": "aditumangggor", "url": "http://instagram.com/aditumangggor" }
-    ]
-  },
-  "interests": [
-    { "name": "Surveying & Mapping" },
-    { "name": "Geospatial Computing" },
-    { "name": "HSE" },
-    { "name": "Data Visualisation" },
-    { "name": "3D Graphics" }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "Python", "Javascript", "ArcGis", "React" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Linux", "Git/GitHub", "g++", "Linux Mint" ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Institut Sains dan Teknologi TD Pardede, Medan, ID",
-      "area": "Mining Engineering (Graduated, 2022)",
-      "studyType": "B.Eng.",
-      "startDate": "2015-09-01",
-      "endDate": "2022-09-30",
-      "courses": [
-      ]
-    }
-  ],
-  "Internship": [
-    {
-      "company": "PT Bukit Asam Tbk",
-      "position": "Assistant Manager",
-      "website": "",
-      "startDate": "2019-04-01",
-      "endDate": "2019-06-01",
-      "summary": "Pengawasan Hauling Batubara site TAL",
-      "highlights": [
-        "Creating timeline for productivity of production",
-        "Drive, design and build report for Head mining production"
-      ]
-    },
-  ],
-  "certification": [
-    {
-      "name":"Calon Ahli K3 Umum",
-      "Badan Sertifikasi":"Kementerian Ketenagakerjaan indonesia",
-      "startDate":"2024-04-29"
-    },
-    {
-      "name":"Juru Ukur Surveyor",
-      "Badan Sertifikasi":"Kementerian Ketenagakerjaan indonesia",
-      "startDate":"2024-01-16"
-    },
-    {
-      "name":"TOEFL",
-      "Score":"507",
-      "Badan Sertifikasi":"TOEFL ITP"
-    }
-    
-  ]
-  
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
+	"basics": {
+		"name": "Adi Putra Tumanggor",
+		"label": "Student",
+		"picture": "https://github.com/aditumanggor.png",
+		"email": "aditumanggor13@gmail.com",
+		"phone": "+6283130199468",
+		"website": "https://aditumanggor.github.io",
+		"summary": "Mining Engineering graduate with strong technical skills and a solid understanding of mining operations, Graduated in 2022 from Institus Sains dan Teknologi TD Pardede",
+		"location": {
+			"address": "",
+			"postalCode": "",
+			"city": "Medan",
+			"countryCode": "ID",
+			"region": "North Sumatera"
+		},
+		"profiles": [{
+				"network": "github",
+				"username": "aditumanggor",
+				"url": "http://github.com/aditumanggor"
+			},
+			{
+				"network": "linkedin",
+				"username": "aditumanggor",
+				"url": "http://linkedin.com/in/aditumanggor"
+			},
+			{
+				"network": "twitter",
+				"username": "thisistumanggor",
+				"url": "http://twitter.com/thisistumanggor"
+			},
+			{
+				"network": "instagram",
+				"username": "aditumangggor",
+				"url": "http://instagram.com/aditumangggor"
+			}
+		]
+	},
+	"interests": [{
+			"name": "Surveying & Mapping"
+		},
+		{
+			"name": "Geospatial Computing"
+		},
+		{
+			"name": "HSE"
+		},
+		{
+			"name": "Data Visualisation"
+		},
+		{
+			"name": "3D Graphics"
+		}
+	],
+	"skills": [
+      	{
+			"name": "Languages and Frameworks",
+			"keywords": ["Python", "Javascript", "ArcGis", "React"]
+		},
+		{
+			"name": "Toolsets/OS",
+			"keywords": ["Windows", "Linux", "Git/GitHub", "g++", "Linux Mint"]
+		}
+	],
+	"education": [{
+		"institution": "Institut Sains dan Teknologi TD Pardede, Medan, ID",
+		"area": "Mining Engineering (Graduated, 2022)",
+		"studyType": "B.Eng.",
+		"startDate": "2015-09-01",
+		"endDate": "2022-09-30",
+		"courses": []
+	}],
+	"Internship": [
+      {
+		"company": "PT Bukit Asam Tbk",
+		"position": "Assistant Manager",
+		"website": "",
+		"startDate": "2019-04-01",
+		"endDate": "2019-06-01",
+		"summary": "Pengawasan Hauling Batubara site TAL",
+		"highlights": [
+			"Creating timeline for productivity of production",
+			"Drive, design and build report for Head mining production"
+		]
+	}
+    ],
+	"certification": [
+      	{
+			"name": "Calon Ahli K3 Umum",
+			"Badan Sertifikasi": "Kementerian Ketenagakerjaan indonesia",
+			"startDate": "2024-04-29"
+		},
+		{
+			"name": "Juru Ukur Surveyor",
+			"Badan Sertifikasi": "Kementerian Ketenagakerjaan indonesia",
+			"startDate": "2024-01-16"
+		},
+		{
+			"name": "TOEFL",
+			"Score": "507",
+			"Badan Sertifikasi": "TOEFL ITP"
+		}
+	]
 }
